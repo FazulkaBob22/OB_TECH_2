@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6653af9e-38b6-49d9-b533-b7b345b27c87" name="Changes" comment="new">
-      <change beforePath="$PROJECT_DIR$/SEM2_HW2/src/main/java/com/example/sem2_hw2/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2_HW2/src/main/java/com/example/sem2_hw2/HelloController.java" afterDir="false" />
-    </list>
+    <list default="true" id="6653af9e-38b6-49d9-b533-b7b345b27c87" name="Changes" comment="new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
