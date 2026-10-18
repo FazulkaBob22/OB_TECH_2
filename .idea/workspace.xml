@@ -3,15 +3,21 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6653af9e-38b6-49d9-b533-b7b345b27c87" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/.idea/obj_tech.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_chod/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_chod/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_chod/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_chod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_chod/src/main/java/com/example/robot_chod/Robotik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/src/main/java/com/example/geometric/GeometricShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/src/main/java/com/example/geometric/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/src/main/java/com/example/geometric/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric/src/main/java/com/example/geometric/MySquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot_chod/src/main/resources/com/example/robot_chod/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/robot_chod/src/main/resources/com/example/robot_chod/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,19 +73,6 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="obj_tech" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="obj_tech" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SelectedDebugProfileService">{
   &quot;profileIdByStamp&quot;: [],
   &quot;modificationCount&quot;: 1
