@@ -8,13 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6653af9e-38b6-49d9-b533-b7b345b27c87" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Zviera/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zviera/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zviera/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zviera/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zviera/src/main/java/com/example/zviera/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zviera/src/main/java/com/example/zviera/Carnivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zviera/src/main/java/com/example/zviera/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gula/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gula/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gula/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gula/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gula/src/main/java/com/example/gula/Ballin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
