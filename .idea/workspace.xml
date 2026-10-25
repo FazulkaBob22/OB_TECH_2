@@ -8,14 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6653af9e-38b6-49d9-b533-b7b345b27c87" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Weather_HW/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/src/main/java/com/example/weather_hw/Cloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/src/main/java/com/example/weather_hw/Raindrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/src/main/java/com/example/weather_hw/Snowflake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather_HW/src/main/java/com/example/weather_hw/WeatherObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S5_HW_Nakup_z/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S5_HW_Nakup_z/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S5_HW_Nakup_z/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S5_HW_Nakup_z/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S5_HW_Nakup_z/src/main/java/com/example/s5_hw_nakup_z/Polozka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

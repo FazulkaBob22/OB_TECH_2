@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.s5_hw_nakup_z.HelloController">
+   <left>
+      <ListView fx:id="list" prefHeight="343.0" prefWidth="200.0" BorderPane.alignment="CENTER_LEFT" />
+   </left>
+   <right>
+      <VBox alignment="CENTER" prefHeight="400.0" prefWidth="194.0" spacing="20.0" BorderPane.alignment="CENTER_RIGHT">
+         <children>
+            <TextField fx:id="name" />
+            <TextField fx:id="pocet" />
+            <Button mnemonicParsing="false" onAction="#add" text="Pridaj" />
+            <Button fx:id="removeBtn" mnemonicParsing="false" onAction="#remove" text="Zmaz" />
+            <Button mnemonicParsing="false" onAction="#update" text="Zmen" />
+         </children>
+      </VBox>
+   </right>
+   <bottom>
+      <Label fx:id="celkovyPocet" text="Celkovy pocet kusov:" BorderPane.alignment="CENTER" />
+   </bottom>
+</BorderPane>
